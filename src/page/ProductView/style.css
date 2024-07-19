@@ -1,0 +1,5 @@
+.product .left img{
+    max-height: 350px;
+    object-fit: cover;
+    min-height: 300px;
+}

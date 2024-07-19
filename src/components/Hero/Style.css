@@ -1,0 +1,31 @@
+
+
+.hero{
+    height: 70vh;
+}
+.carousel-item img{
+    object-fit: cover;
+    height: 100% !important;
+}
+.carousel-item{
+    height: 80vh;
+}
+.carousel-item1{
+    background: linear-gradient(#00000077, #000), url('https://img.freepik.com/free-photo/bunch-fashion-designer-working-atelier-with-color-palette_23-2148846701.jpg?ga=GA1.1.1879916801.1720642259&semt=ais_user') no-repeat center;
+    background-size: cover;
+}
+
+.carousel-item2{
+    background: linear-gradient(#00000077, #000), url('https://img.freepik.com/free-photo/women-shopping-clothes_23-2148915546.jpg?ga=GA1.1.1879916801.1720642259&semt=ais_user') no-repeat center;
+    background-size: cover;
+}
+
+.carousel-item3{
+    background: linear-gradient(#00000077, #000), url('https://img.freepik.com/free-photo/medium-shot-women-testing-colours_23-2150538657.jpg?ga=GA1.1.1879916801.1720642259&semt=ais_user') no-repeat center;
+    background-size: cover;
+}
+
+.carousel-item4{
+    background: linear-gradient(#00000077, #000), url('https://img.freepik.com/free-photo/medium-shot-woman-marking-fabric_23-2148875314.jpg?ga=GA1.1.1879916801.1720642259&semt=ais_user') no-repeat center;
+    background-size: cover;
+}
